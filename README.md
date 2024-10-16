@@ -44,5 +44,4 @@ The project is divided into the following packages and files:
 - `Main.java`: Driver class to demonstrate the Observer pattern.
 
 ## How to Run
-1. Compile all the `.java` files in each package.
-2. Run the `Main` class in each package to see the respective design patterns in action.
+Run the `Main` class in each package to see the respective design patterns in action.
