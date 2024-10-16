@@ -1,4 +1,4 @@
-# Notification System - Design Patterns Assignment
+# Design Patterns Assignment
 
 This project is a demonstration of two design patterns: **Strategy** and **Observer**. The project is divided into two separate modules:
 
